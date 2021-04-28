@@ -53,8 +53,8 @@ int main()
     //***************************************
 
 
-    Fila <int> fila;                                                    //Instancia uma fila
 
+    Fila <int> fila;                                                    //Instancia uma fila
     time_fila.start();                                                  //Inicia contagem do conometro
     for(int n = 1; n < 6; n++)                                          //Mutiplica o tamanho do vetor
     {
